@@ -3,14 +3,14 @@
     "description": "",
     "authors": [
         {
-            "name": "Meowcakes",
-            "email": "meowcakes@meowcakes.com"
+            "name": "gealtec",
+            "email": "desarrollo@sidemovi.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.1.x",
-        "illuminate/database": "4.1.x"
+        "illuminate/support": "5.2.x",
+        "illuminate/database": "5.2.x"
     },
     "require-dev": {
         "mockery/mockery": "dev-master"
